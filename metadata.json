@@ -1,0 +1,6 @@
+{
+  "name": "OmniTools",
+  "description": "All-in-one multi-utility toolbox with design, creator, business, and daily tools",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
